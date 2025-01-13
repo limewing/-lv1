@@ -6,7 +6,7 @@
     }
 }
 
-int j = 1;
+int j = 1;//while문
 while (j <= 100)
 {
     if (j % 2 == 1)
@@ -14,7 +14,7 @@ while (j <= 100)
     j++;
 }
 
-int k = 0;
+int k = 0;//do while문
 do
 {
     if (k % 2 == 1)
